@@ -412,3 +412,5 @@ void loop()
 {
   // 使用FreeRTOSteam任务调度
 }
+
+// 2026.6.29提交
