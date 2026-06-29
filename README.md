@@ -262,7 +262,7 @@ Serial2 中断回调 (onDataRecv)
 
 ## 开源协议
 
-本项目采用 **MIT License** 开源，欢迎 Star、Fork 和 PR！
+本项目采用 **GPL2.0** 开源，欢迎 Star、Fork 和 PR！
 
 ---
 
